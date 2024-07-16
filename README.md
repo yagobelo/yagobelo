@@ -11,6 +11,7 @@ Sou Desenvolvedor Backend e estudante de Engenharia de software.
   <img align="center" alt="Yago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yago-ReactNative" height="30" width="40" src="https://reactnative.dev/img/header_logo.svg">
+  <img align="center" alt="Yago-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 </div>
   
   ##
