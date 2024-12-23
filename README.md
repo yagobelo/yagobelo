@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Yago Belo.
 
-Software Developer in IN8 Holding(Devnology).
+Software Developer in IN8 Holding(Devnology).<br/>
 Sou Desenvolvedor Backend e estudante de Engenharia de software.
 
 ### Linguagens e ferramentas
